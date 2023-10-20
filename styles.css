@@ -62,14 +62,14 @@ button:hover {
   color: black;
 }
 .grayButton:hover {
-  background-color: rgb(95, 95, 95);
+  background-color: rgb(95, 95, 96);
   color: white;
 }
 .randomButton {
   background: linear-gradient(0.25turn, #f65cfc, #ebf8e1, #583cf6);
 }
 .randomButton:hover {
-  background: linear-gradient(0.25turn, #20ff02, #ebf8e1, #aecc05);
+  background: linear-gradient(0.25turn, #20ff02, #ebf8e1, #aecc06);
 }
 .whiteButton {
   background-color: rgb(255, 255, 255);
